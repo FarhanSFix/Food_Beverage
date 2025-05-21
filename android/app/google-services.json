@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521518303689",
+    "project_id": "katalog-makanan-a9fc2",
+    "storage_bucket": "katalog-makanan-a9fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521518303689:android:cfff8476df48fed9a9c018",
+        "android_client_info": {
+          "package_name": "com.example.food_baverage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVpvXes9OeT-Ie4TNHnL_Nz1-pyqmh6ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
